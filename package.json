@@ -1,0 +1,32 @@
+{
+"name": "みさとtube",
+"version": "2.0",
+"main": "server.js",
+"license": "CC-BY-4.0",
+"dependencies": {
+"ejs": "^3.1.10",
+"express": "^4.17.1",
+"axios": "^1.7.7",
+"cors": "latest",
+"jsonpath": "^1.0.0",
+"compression": "^1.7.4"
+},
+"description": "みさと",
+"engines": {
+"node": "20.x"
+},
+"repository": {
+"type": "git",
+"url": "https://glitch.com/tenakskd"
+},
+"author": "misato",
+"private": false,
+"devDependencies": {},
+"scripts": {
+"start": "node server.js",
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"keywords": [
+"味里"
+]
+}  
