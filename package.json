@@ -1,6 +1,6 @@
 {
 "name": "みさとtube",
-"version": "2.0",
+"version": "2.6.8",
 "main": "server.js",
 "license": "CC-BY-4.0",
 "dependencies": {
@@ -13,11 +13,11 @@
 },
 "description": "みさと",
 "engines": {
-"node": "20.x"
+"node": "16.x"
 },
 "repository": {
 "type": "git",
-"url": "https://glitch.com/tenakskd"
+"url": "https://glitch.com/~watawata"
 },
 "author": "misato",
 "private": false,
