@@ -1,5 +1,5 @@
 {
-"name": "みさとtube",
+"name": "わかめtube",
 "version": "2.6.8",
 "main": "server.js",
 "license": "CC-BY-4.0",
@@ -11,7 +11,7 @@
 "jsonpath": "^1.0.0",
 "compression": "^1.7.4"
 },
-"description": "みさと",
+"description": "わかめ",
 "engines": {
 "node": "16.x"
 },
@@ -19,7 +19,7 @@
 "type": "git",
 "url": "https://glitch.com/~watawata"
 },
-"author": "misato",
+"author": "wakame",
 "private": false,
 "devDependencies": {},
 "scripts": {
@@ -27,6 +27,6 @@
 "test": "echo \"Error: no test specified\" && exit 1"
 },
 "keywords": [
-"味里"
+"和布"
 ]
 }   
